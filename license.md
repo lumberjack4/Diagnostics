@@ -1,0 +1,3 @@
+DISTRIBUTION D. Distribution authorized to Department of Defense and U.S. DoD contractors only (Critical Technology) (2 Apr 2014).  Other request for this document shall be referred to RDMR-SEP, Bldg 5400, Redstone Arsenal, AL 35898-5000.
+
+WARNING - This document contains technical data whose export is restricted by the Arms Export Control Act (Title 22, U.S.C., Sec 2751, et seq.) or the Export Administration Act of 1979 (Title 50, U.S.C., App. 2401 et seq.), as amended.  Violations of these export laws are subject to severe criminal penalties.  Disseminate in accordance with provisions of DoD Directive 5230.25.
